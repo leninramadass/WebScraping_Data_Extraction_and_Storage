@@ -53,10 +53,11 @@ This Python project demonstrates web scraping capabilities using BeautifulSoup a
 #### 1. Website Page Screenshot
 - Books displayed on the source website from which the data was scraped.
 
-![Website_picture](https://github.com/user-attachments/assets/3c52e0d2-1d87-45aa-87aa-0c3587d0ef3f)
+![Website_picture](https://github.com/user-attachments/assets/27411530-2df4-4301-b069-ae4d0f5f4161)
 
 #### 2. MySQL Output Screenshot
 - MySQL database table displaying scraped book data with fields such as ID, Name, Price, Category, and Availability.
 
-![Extracted_data_picture](https://github.com/user-attachments/assets/122cea35-85e3-44c4-bd6a-192eddadb842)
+![Extracted_data_picture](https://github.com/user-attachments/assets/3e344213-160b-4aa4-a4d4-3e3fe9d9d74a)
+
 
