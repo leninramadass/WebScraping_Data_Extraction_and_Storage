@@ -26,7 +26,7 @@ Web scraping is a powerful tool that allows to collect data directly from websit
 #### Stores Data in MySQL Database:
 - The extracted data is stored in a MySQL database table named 'BOOK'. The connection details for the MySQL database are configured in the `connect_to_mysql` function within the script.
 #### Creates Excel File:
-- The script generates an Excel file named 'Book_list.xlsx' to store the extracted data. This file is another way to present and analyze the collected data.
+- The script generates an Excel file named 'Book_data.xlsx' to store the extracted data. This file is another way to present and analyze the collected data.
 #### Handles Pagination:
 - Handles Pagination: The web scraping logic includes pagination handling to systematically scrape data from multiple pages. The script iterates through each page, extracting book details and storing them in the MySQL database and Excel file. This ensures efficient collection of book data from across the web.
     - The script identifies and extracts the 'Next' button on each page to determine whether additional pages exist.
