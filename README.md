@@ -2,7 +2,9 @@
 
 # Web Scraping Project: Extracting a data from Book Selling E-commerce Websites
 
-This Python project demonstrates web scraping capabilities using BeautifulSoup and requests to extract book details from a sample website (https://books.toscrape.com). The extracted data is stored in a MySQL database and an Excel file. The primary purpose of this project is to showcase my skills in web scraping, data manipulation, and database interaction.
+This Python project demonstrates web scraping capabilities using BeautifulSoup and requests to extract book details from a sample website (https://books.toscrape.com). The extracted data is stored in a MySQL database and an Excel file. The primary purpose of this project is to showcase my skills in web scraping, data extraction, data manipulation, and database interaction.
+
+Web scraping is a powerful tool that allows to collect data directly from websites, enabling access to datasets tailored to specific needs. This project highlights my ability to extract custom data, which is essential when pre-compiled datasets aren't available.
 
 
 ## Tech Stack
