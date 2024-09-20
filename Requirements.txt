@@ -1,0 +1,7 @@
+Python 3.x
+MySQL
+Excel
+beautifulsoup4
+requests
+mysql-connector-python
+openpyxl
